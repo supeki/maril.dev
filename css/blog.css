@@ -1,5 +1,16 @@
 /* Basic CSS styling for the Blogilyn, hopefully it'll still be readable on my Pocket PC! */
+
+.entry {
+  width: 50%;
+}
+
 .entry h {
   padding: 0px;
   margin: 0px;
+}
+
+@media only screen and (max-width: 640px) {
+  .entry {
+    width: 100%;
+  }
 }
