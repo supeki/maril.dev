@@ -19,12 +19,12 @@ p {
 .entry .title {
   color: darksalmon;
   font-size: 24px;
-  margin-top: 0px;
   margin-bottom: 0px;
 }
 
 .entry .date {
   color: white;
+  margin-top: 0px;
 }
 
 .entry .content {
