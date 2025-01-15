@@ -1,5 +1,9 @@
 /* Basic CSS styling for the Blogilyn, hopefully it'll still be readable on my Pocket PC! */
 
+body {
+  background-color: black;
+}
+
 .entry {
   margin: auto;
   width: 50%;
