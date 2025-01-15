@@ -3,6 +3,8 @@
 .entry {
   margin: auto;
   width: 50%;
+  border-radius: 16px;
+  background-color: maroon;
 }
 
 .entry h {
