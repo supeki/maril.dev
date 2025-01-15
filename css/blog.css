@@ -12,11 +12,16 @@ body {
   padding: 4px;
 }
 
-.entry h {
-  text-color: darksalmon;
+.entry .title {
+  text-color: white;
+  font-size: 24px;
 }
 
-.entry p {
+.entry .date {
+  text-color: white;
+}
+
+.entry .content {
   text-color: darksalmon;
 }
 
