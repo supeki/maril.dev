@@ -26,11 +26,11 @@ body {
 }
 
 .entry a {
-  color: limegreen;
+  color: lightpink;
 }
 
 .entry a:visited {
-  color: goldenrod;
+  color: hotpink;
 }
 
 @media only screen and (max-width: 800px) {
