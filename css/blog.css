@@ -10,12 +10,18 @@ body {
   border-radius: 16px;
   background-color: maroon;
   padding: 4px;
-  text-color: white;
 }
 
 .entry h {
   padding: 0px;
   margin: 0px;
+  text-color: white;
+}
+
+.entry p {
+  padding: 0px;
+  margin: 0px;
+  text-color: white;
 }
 
 @media only screen and (max-width: 800px) {
