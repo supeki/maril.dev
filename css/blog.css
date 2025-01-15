@@ -4,6 +4,10 @@ body {
   background-color: black;
 }
 
+p {
+  font-family: "Verdana", serif;
+}
+
 .entry {
   margin: 2.5% auto;
   width: 50%;
