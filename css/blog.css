@@ -25,6 +25,10 @@ body {
   color: darksalmon;
 }
 
+.entry a:visited {
+  color: limegreen;
+}
+
 @media only screen and (max-width: 800px) {
   .entry {
     width: 100%;
