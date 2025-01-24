@@ -41,6 +41,7 @@ p {
 }
 
 .entry img {
+  margin: 2.5% auto;
   max-width: 50%;
   height: auto;
 }
