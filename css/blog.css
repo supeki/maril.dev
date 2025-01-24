@@ -40,6 +40,11 @@ p {
   color: hotpink;
 }
 
+.entry img {
+  max-width: 50%;
+  height: auto;
+}
+
 @media only screen and (max-width: 640px) {
   .entry {
     width: 100%;
