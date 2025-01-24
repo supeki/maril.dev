@@ -42,6 +42,7 @@ p {
 
 .entry img {
   margin: auto;
+  padding-top: 4px;
   display: block;
   max-width: 50%;
   height: auto;
