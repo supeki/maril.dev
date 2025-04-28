@@ -1,7 +1,6 @@
 .topbar {
     background-color: #000000;
     bottom: 0;
-    margin: auto;
     overflow-x: scroll;
     position: fixed;
     width: 100%;
