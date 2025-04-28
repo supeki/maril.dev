@@ -1,6 +1,9 @@
+html body {
+    margin: 0; /* rid of the border around our page */
+}
+
 .bottombar {
-    background-color: black;
-    bottom: 1;
+    bottom: 0; /* go to the bottom of our page */
     width: 100%;
     z-index: 1;
 }
