@@ -7,13 +7,9 @@
     background-color: #FFFFFF;
 }
 
-.topbar .title {
-    padding: 4px 2px 4px 2px;
-}
-
 .topbar a {
     display: inline-block;
-    margin: auto;
+    float: left;
 }
 
 p {
