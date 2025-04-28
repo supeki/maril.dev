@@ -4,6 +4,8 @@
     z-index: 1;
     top: 4px;
     overflow-x: hidden;
+    display: inline-block;
+    background-color: #FFFFFF;
 }
 
 .topbar .title {
