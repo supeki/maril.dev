@@ -7,6 +7,10 @@
     background-color: #FFFFFF;
 }
 
+.topbar .title {
+    float: left;
+}
+
 .topbar a {
     display: inline-block;
     float: left;
