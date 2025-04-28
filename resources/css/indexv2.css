@@ -2,9 +2,8 @@
     width: 50%;
     position: fixed;
     z-index: 1;
-    top: 4px;
+    top: 0;
     overflow-x: hidden;
-    display: inline-block;
     background-color: #FFFFFF;
 }
 
@@ -14,7 +13,7 @@
 
 .topbar a {
     padding: 4px 2px 4px 2px;
-    display: block;
+    display: inline-block;
 }
 
 p {
