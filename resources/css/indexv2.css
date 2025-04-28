@@ -3,7 +3,7 @@ html body {
 }
 
 .titlebar {
-    position: fixed;
+    position: absolute;
     bottom: 0; /* go to the bottom of our page */
     left: 0; /* go to the left of our page */
     width: 10%;
