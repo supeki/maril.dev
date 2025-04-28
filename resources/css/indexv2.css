@@ -1,8 +1,6 @@
-.topbar {
-    background-color: #000000;
-    bottom: 0;
-    overflow-x: scroll;
-    position: fixed;
+.bottombar {
+    background-color: black;
+    bottom: 1;
     width: 100%;
     z-index: 1;
 }
@@ -10,11 +8,6 @@
 .bottombar .links {
     display: block;
     margin: auto;
-}
-
-.bottombar .title {
-    display: block;
-    margin-right: auto;
 }
 
 p {
