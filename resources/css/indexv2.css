@@ -3,7 +3,7 @@ html body {
 }
 
 .titlebar {
-    border: 2px black;
+    border: 2px solid black;
     position: fixed;
     top: 0;
     left: 0;
