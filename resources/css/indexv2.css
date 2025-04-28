@@ -1,9 +1,14 @@
 html body {
-    margin: 0; /* rid of the border around our page */
+    margin: 0;
+    padding: 0;
 }
 
 .titlebar {
     border: 2px solid black;
+
+    margin: 0;
+    padding: 0;
+    
     position: fixed;
     top: 0;
     left: 0;
