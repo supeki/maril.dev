@@ -2,13 +2,14 @@ html body {
     margin: 0; /* rid of the border around our page */
 }
 
-.bottombar {
+.titlebar {
+    position: fixed;
     bottom: 0; /* go to the bottom of our page */
     width: 100%;
     z-index: 1;
 }
 
-.bottombar .links {
+.links {
     display: block;
     margin: auto;
 }
