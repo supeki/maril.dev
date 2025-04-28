@@ -13,6 +13,7 @@
 
 .topbar a {
     display: inline-block;
+    margin: auto;
 }
 
 p {
