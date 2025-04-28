@@ -1,5 +1,6 @@
 .topbar {
-    width: 50%;
+    display: block;
+    margin: auto;
     position: fixed;
     z-index: 1;
     top: 0;
@@ -8,12 +9,9 @@
 }
 
 .topbar .title {
-    float: left;
-}
-
-.topbar a {
-    display: inline-block;
-    float: left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 p {
