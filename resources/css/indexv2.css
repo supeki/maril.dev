@@ -77,6 +77,8 @@ html, body {
 }
 
 .webilyn-contactme {
+    width: 288px;
+    
     position: absolute;
     bottom: 0;
     
