@@ -1,0 +1,55 @@
+/* Basic CSS styling for the Blogilyn, hopefully it'll still be readable on my Pocket PC! */
+
+body {
+  background-color: black;
+}
+
+p {
+  font-family: "Verdana", serif;
+}
+
+.entry {
+  margin: 2.5% auto;
+  width: 50%;
+  border-radius: 16px;
+  background-color: maroon;
+  padding: 4px;
+}
+
+.entry .title {
+  color: darksalmon;
+  font-size: 24px;
+  margin-top: 0.5em;
+  margin-bottom: 0px;
+}
+
+.entry .date {
+  color: white;
+  margin-top: 4px;
+}
+
+.entry .content {
+  color: darksalmon;
+}
+
+.entry a {
+  color: lightpink;
+}
+
+.entry a:visited {
+  color: hotpink;
+}
+
+.entry img {
+  margin: auto;
+  padding-top: 4px;
+  display: block;
+  max-width: 50%;
+  height: auto;
+}
+
+@media only screen and (max-width: 640px) {
+  .entry {
+    width: 100%;
+  }
+}
