@@ -59,6 +59,15 @@ html, body {
     text-align: center;
 }
 
+.webilyn-quicklinks p {
+    padding: 2px;
+    
+    display: block;
+    text-align: center;
+
+    font-size: 12px;
+}
+
 .webilyn-main {
     margin-left: 288px;
     padding: 4px;
