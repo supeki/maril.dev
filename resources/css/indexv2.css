@@ -3,16 +3,50 @@ html body {
     padding: 0;
 }
 
-.titlebar {
-    width: 256px;
-    border-right: 2px;
+.webilyn-sidebar {
+    width: 288px;
+    height: 100%;
+    
+    border-right: 2px solid black;
 
     margin: 0;
     padding: 0;
     
     position: fixed;
+    z-index: 1;
     top: 0;
     left: 0;
+
+    overflow-x: hidden;
+}
+
+.webilyn-iconilyn {
+    width: 288px;
+    height: 128px;
+
+    border-bottom: 2px solid black;
+    
+    margin: 0;
+    padding: 0;
+
+    display: block;
+}
+
+.webilyn-quicklinks {
+    display: block;
+}
+
+.webilyn-quicklinks a {
+    border: 1px solid black;
+
+    padding: 4px;
+    
+    display: block;
+    text-align: center;
+}
+
+.main {
+    margin-left: 290px;
 }
 
 p {
