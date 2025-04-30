@@ -48,6 +48,7 @@ html, body {
 
 .webilyn-quicklinks {
     display: block;
+    text-align: center;
 }
 
 .webilyn-quicklinks a {
@@ -59,14 +60,12 @@ html, body {
     padding: 4px;
     
     display: block;
-    text-align: center;
 }
 
 .webilyn-quicklinks p {
     padding: 2px;
     
     display: block;
-    text-align: center;
 
     font-size: 12px;
 }
