@@ -47,6 +47,9 @@ html, body {
 
 .main {
     margin-left: 290px;
+    margin-top: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
 }
 
 p {
