@@ -39,6 +39,7 @@ html, body {
 .webilyn-quicklinks a {
     border: 1px solid black;
 
+    margin: 0;
     padding: 4px;
     
     display: block;
