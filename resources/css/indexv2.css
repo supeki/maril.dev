@@ -4,7 +4,8 @@ html body {
 }
 
 .titlebar {
-    border: 2px solid black;
+    width: 256px;
+    border-right: 2px;
 
     margin: 0;
     padding: 0;
