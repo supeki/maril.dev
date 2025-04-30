@@ -36,7 +36,7 @@ html, body {
     display: block;
 }
 
-.webilyn-quicklinks p {
+.webilyn-quicklinks a {
     border: 1px solid black;
 
     padding: 4px;
