@@ -37,7 +37,7 @@ html, body {
 
     border-bottom: 2px solid black;
     
-    margin: 0;
+    margin-bottom: 34px;
     padding: 0;
 
     display: block;
@@ -52,7 +52,7 @@ html, body {
     border-left: 2px solid black;
     border-right: 1px solid black;
 
-    margin-top: 4px;
+    margin-bottom: 16px;
     padding: 4px;
     
     display: block;
