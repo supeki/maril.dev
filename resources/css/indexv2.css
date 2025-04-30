@@ -78,6 +78,8 @@ html, body {
 
 .webilyn-contactme {
     width: 288px;
+
+    margin: 4px;
     
     position: absolute;
     bottom: 0;
