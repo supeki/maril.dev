@@ -109,6 +109,9 @@ html, body {
 .webilyn-picture {
     max-width: 256px;
 
+    margin: 0;
+    padding: 0;
+    
     position: fixed;
     right: 0;
     bottom: 0;
