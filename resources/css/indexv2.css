@@ -125,3 +125,20 @@ html, body {
     position: absolute;
     bottom: 0;
 }
+
+.webilyn-sidebar2 {
+    width: 288px;
+    height: 100%;
+    
+    border-left: 2px solid black;
+
+    margin: 0;
+    padding: 0;
+    
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+
+    overflow-x: hidden;
+}
