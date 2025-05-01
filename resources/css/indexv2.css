@@ -105,3 +105,11 @@ html, body {
     margin-left: 288px;
     padding: 4px;
 }
+
+.webilyn-picture {
+    max-width: 256px;
+
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
