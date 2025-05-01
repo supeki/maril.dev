@@ -21,6 +21,14 @@ a, p, h1, h2, h3, h4, h5, h6, ol, ul, il {
     color: white;
 }
 
+a {
+    color: peachpuff;
+}
+
+a:visited {
+    color: salmon;
+}
+
 .webilyn-sidebar {
     background-image: url("https://maril.dev/resources/images/webilynbackdrop.png");
     
@@ -83,23 +91,6 @@ a, p, h1, h2, h3, h4, h5, h6, ol, ul, il {
 }
 
 .webilyn-contactme {
-    color: peachpuff;
-    
-    width: 288px;
-
-    margin: 4px;
-    margin-bottom: 8%;
-    
-    position: absolute;
-    bottom: 0;
-    
-    display: block;
-    text-align: center;
-}
-
-.webilyn-contactme a:visited {
-    color: salmon;
-    
     width: 288px;
 
     margin: 4px;
@@ -130,7 +121,7 @@ a, p, h1, h2, h3, h4, h5, h6, ol, ul, il {
     padding: 4px;
 }
 
-.webilyn-main a, .webilyn-main p, .webilyn-main h1, .webilyn-main h2, .webilyn-main h3, .webilyn-main h4, .webilyn-main h5, .webilyn-main h6, .webilyn-main ol, .webilyn-main ul, .webilyn-main il {
+.webilyn-main p, .webilyn-main h1, .webilyn-main h2, .webilyn-main h3, .webilyn-main h4, .webilyn-main h5, .webilyn-main h6, .webilyn-main ol, .webilyn-main ul, .webilyn-main il {
     color: black;
 }
 
