@@ -88,6 +88,18 @@ html, body {
     text-align: center;
 }
 
+.webilyn-copyright {
+    width: 288px;
+
+    margin: 2px;
+    
+    position: absolute;
+    bottom: 0;
+    
+    display: block;
+    text-align: center;
+}
+
 .webilyn-main {
     margin-left: 288px;
     padding: 4px;
