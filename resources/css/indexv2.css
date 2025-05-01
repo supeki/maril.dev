@@ -122,10 +122,6 @@ a:visited {
     padding: 4px;
 }
 
-.webilyn-main p, .webilyn-main h1, .webilyn-main h2, .webilyn-main h3, .webilyn-main h4, .webilyn-main h5, .webilyn-main h6, .webilyn-main ol, .webilyn-main ul, .webilyn-main il {
-    color: black;
-}
-
 .webilyn-picture {
     width: 256px;
     height: 256px;
