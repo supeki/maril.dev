@@ -83,6 +83,23 @@ a, p, h1, h2, h3, h4, h5, h6, ol, ul, il {
 }
 
 .webilyn-contactme {
+    color: peachpuff;
+    
+    width: 288px;
+
+    margin: 4px;
+    margin-bottom: 8%;
+    
+    position: absolute;
+    bottom: 0;
+    
+    display: block;
+    text-align: center;
+}
+
+.webilyn-contactme a:visited {
+    color: salmon;
+    
     width: 288px;
 
     margin: 4px;
