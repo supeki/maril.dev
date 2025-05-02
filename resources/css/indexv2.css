@@ -170,6 +170,9 @@ a:visited {
 }
 
 .webilyn-comments {
+    height: 382px;
+    overflow-y: scroll;
+    
     background-color: #8f563b;
     border-bottom: 2px solid black;
 }
