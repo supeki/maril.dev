@@ -169,6 +169,10 @@ a:visited {
     display: none;
 }
 
+.webilyn-comments {
+    background-color: #8f563b;
+}
+
 @media (max-width: 640px) {
     .webilyn-sidebar {
         display: none;
