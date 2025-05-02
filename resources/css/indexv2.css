@@ -171,6 +171,7 @@ a:visited {
 
 .webilyn-comments {
     background-color: #8f563b;
+    border-bottom: 2px;
 }
 
 @media (max-width: 640px) {
