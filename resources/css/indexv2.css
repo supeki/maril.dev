@@ -231,6 +231,12 @@ a:visited {
 }
 
 @media (max-height: 623px) {
+    .webilyn-mobilebar {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    
     .webilyn-comments {
         display: none;
     }    
