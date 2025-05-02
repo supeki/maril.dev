@@ -176,7 +176,8 @@ a:visited {
     }
 
     .webilyn-main {
-        margin: 0;
+        margin-left: 0;
+        margin-top: 130px;
         
         display: block;
     }
