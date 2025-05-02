@@ -168,7 +168,7 @@ a:visited {
 
 @media (max-width: 600px) {
     .webilyn-sidebar {
-        display: block;
+        display: none;
     }
 
     .webilyn-quicklinks {
