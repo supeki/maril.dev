@@ -168,7 +168,17 @@ a:visited {
 
 @media (max-width: 600px) {
     .webilyn-sidebar {
+        display: block;
+    }
+
+    .webilyn-quicklinks {
         display: none;
+    }
+
+    .webilyn-main {
+        margin: 0;
+        
+        display: block;
     }
     
     .webilyn-sidebar2 {
