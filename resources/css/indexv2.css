@@ -215,3 +215,10 @@ a:visited {
         display: none;
     }
 }
+
+@media (max-height: 600px) {
+    
+    .webilyn-picture img {
+        display: none;
+    }    
+}
