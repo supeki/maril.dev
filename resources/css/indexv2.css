@@ -175,6 +175,19 @@ a:visited {
     }
 
     .webilyn-mobilebar {
+        width: 100%;
+        height: 130px;
+        
+        display: block;
+    }
+
+    .webilyn-mobileiconilyn {
+        width: 288px;
+        height: 128px;
+    
+        border-bottom: 2px solid black;
+        padding: 0;
+    
         display: block;
     }
 
