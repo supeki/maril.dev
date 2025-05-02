@@ -230,7 +230,7 @@ a:visited {
     }
 }
 
-@media (max-height: 639px) {
+@media (max-height: 623px) {
     .webilyn-comments {
         display: none;
     }    
