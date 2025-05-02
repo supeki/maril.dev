@@ -180,6 +180,7 @@ a:visited {
     }
 
     .webilyn-mobilebar {
+        background-image: url("https://maril.dev/resources/images/webilynbackdrop.png");
         border-bottom: 2px solid black;
         
         width: 100%;
