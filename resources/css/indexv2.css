@@ -231,7 +231,7 @@ a:visited {
 }
 
 @media (max-height: 639px) {
-    .webilyn-picture img {
+    .webilyn-comments {
         display: none;
     }    
 }
