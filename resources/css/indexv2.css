@@ -165,13 +165,21 @@ a:visited {
     overflow-x: hidden;
 }
 
+.webilyn-mobilebar {
+    display: none;
+}
+
 @media (max-width: 600px) {
     .webilyn-sidebar {
         display: none;
     }
 
+    .webilyn-mobilebar {
+        display: block;
+    }
+
     .webilyn-main {
-        
+        width: 100%;
     }
     
     .webilyn-sidebar2 {
