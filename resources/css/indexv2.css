@@ -194,6 +194,8 @@ a:visited {
     .webilyn-main {
         margin: 0;
         width: 100%;
+
+        display: block;
     }
     
     .webilyn-sidebar2 {
