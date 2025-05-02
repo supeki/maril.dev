@@ -177,6 +177,9 @@ a:visited {
 @media (max-width: 899px) {
     .webilyn-sidebar2 {
         display: none;
+    }
+
+    .webilyn-main {
         margin-right: 0;
     }
 }
