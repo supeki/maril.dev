@@ -15,6 +15,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 html, body {
     margin: 0;
     padding: 0;
+    background-color: #8f563b;
 }
 
 p, h1, h2, h3, h4, h5, h6, ol, ul, il {
@@ -116,8 +117,6 @@ a:visited {
 }
 
 .webilyn-main {
-    background-color: #8f563b;
-
     height: 100%;
     
     margin-left: 288px;
@@ -171,15 +170,8 @@ a:visited {
         display: none;
     }
 
-    .webilyn-quicklinks {
-        display: none;
-    }
-
     .webilyn-main {
-        margin-left: 0;
-        margin-top: 130px;
         
-        display: block;
     }
     
     .webilyn-sidebar2 {
