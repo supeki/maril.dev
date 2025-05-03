@@ -67,6 +67,8 @@ a:visited {
 }
 
 .webilyn-quicklinks a {
+    background-color: #8f563b;
+    
     border: 2px solid black;
     border-left: 2px solid black;
     border-right: 1px solid black;
