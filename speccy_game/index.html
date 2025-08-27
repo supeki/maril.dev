@@ -23,6 +23,18 @@
 	  width: 600px;
 	  margin-left: -260px
   }
+
+  @media (pointer:none), (pointer:coarse) {
+  	#game {
+		display: inline-block; -webkit-user-select: none; text-align: left; width: 100%;
+	}
+	#MMFDiv {
+		width: 100%;
+	}
+	#MMFCanvas {
+		width: 100%;
+	}
+  }
 </style>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
@@ -62,7 +74,7 @@
 	<p>Move: Arrow Keys - Jump: Left/Right Shift</p>
 </div>
 	
-<div style="display: inline-block; -webkit-user-select: none; text-align: left;">
+<div id="game">
     <canvas id="MMFCanvas" width="320" height="240">
     	Your browser does not support Canvas.
     </canvas>
@@ -91,6 +103,7 @@
 
 </body>
 </html>
+
 
 
 
