@@ -6,6 +6,10 @@ p {
   color: yellow;
 }
 
+.title {
+  display: block;
+}
+
 .notice {
   display: block;
 }
