@@ -17,3 +17,8 @@ p {
 .other-sites img {
   display: inline;
 }
+
+.copyright {
+  display: block;
+}
+
