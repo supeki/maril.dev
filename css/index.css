@@ -18,6 +18,10 @@ p {
   display: inline;
 }
 
+.button-disclaimer {
+  font-size: 16px;
+}
+
 .copyright {
   display: block;
 }
